@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[计算机基础知识]]></title>
+      <url>/2018/01/28/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</url>
+      <content type="html"><![CDATA[<p>在学校做的一些笔记（纯当备份）</p>
+<h3 id="计算机发展阶段"><a href="#计算机发展阶段" class="headerlink" title="计算机发展阶段"></a>计算机发展阶段</h3><hr>
+<p>1.1946年世界上第一台计算机ENIAC，1969年世界上第一个计算机网络ARPAnet。</p>
+<p>2.计算机的发展阶段</p>
+<table>
+<thead>
+<tr>
+<th>发展阶段</th>
+<th>主要逻辑器件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第一代（1946-1957）</td>
+<td>电子管</td>
+</tr>
+<tr>
+<td>第二代（1958-1964）</td>
+<td>晶体管</td>
+</tr>
+<tr>
+<td>第三代（1965-1969）</td>
+<td>中小规模集成电路</td>
+</tr>
+<tr>
+<td>第四代（1970-至今）</td>
+<td>大规模和超大规模集成电路</td>
+</tr>
+</tbody>
+</table>
+<h3 id="计算机的特点"><a href="#计算机的特点" class="headerlink" title="计算机的特点"></a>计算机的特点</h3><hr>
+<ul>
+<li><p>运算速度快（mips）</p>
+</li>
+<li><p>计算精度高，可靠性好</p>
+</li>
+<li><p>“记忆”功能和大存储容量</p>
+</li>
+<li><p>具有逻辑判断能力</p>
+</li>
+<li><p>自动化程度高，通用性强</p>
+<p>​</p>
+</li>
+</ul>
+<h3 id="计算机的应用领域"><a href="#计算机的应用领域" class="headerlink" title="计算机的应用领域"></a>计算机的应用领域</h3><hr>
+<ul>
+<li><p>科学计算</p>
+</li>
+<li><p>数据处理</p>
+</li>
+<li><p>过程控制</p>
+</li>
+<li><p>计算机辅助系统</p>
+<ul>
+<li>计算机辅助设计（CAD）</li>
+<li>计算机辅助制造（CAM）</li>
+<li>计算机辅助教学（CAI）</li>
+<li>计算机辅助测试（CAT）</li>
+<li>人工智能(AI)</li>
+</ul>
+</li>
+<li><p>多媒体应用</p>
+</li>
+<li><p>网络应用</p>
+<p>​</p>
+</li>
+</ul>
+<h3 id="计算机的存储单位"><a href="#计算机的存储单位" class="headerlink" title="计算机的存储单位"></a>计算机的存储单位</h3><hr>
+<ul>
+<li><p>8bit = 1 byte</p>
+</li>
+<li><p>字长： cpu在单位时间内能一次处理的二进制的位数。</p>
+<p>​</p>
+</li>
+</ul>
+<h3 id="计算机软件"><a href="#计算机软件" class="headerlink" title="计算机软件"></a>计算机软件</h3><hr>
+<ul>
+<li><p>计算机软件包括系统软件和应用软件</p>
+<p>​系统软件包括<strong>操作系统</strong>（如windows xp）、<strong>程序设计语言</strong>（vb)、<strong>数据库管理系统</strong>和<strong>系统工具软件</strong>等。</p>
+</li>
+<li><p>操作系统可分为单用户多任务操作系统和多用户多任务操作系统。</p>
+<p>​</p>
+</li>
+</ul>
+<h3 id="计算机程序设计语言"><a href="#计算机程序设计语言" class="headerlink" title="计算机程序设计语言"></a>计算机程序设计语言</h3><hr>
+<ul>
+<li>计算机程序设计语言：<strong>低级语言</strong>（目标程序） 和 <strong>高级语言 </strong>（源程序）<ul>
+<li>低级语言：机器语言（指令代码）、汇编语言</li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机病毒"><a href="#计算机病毒" class="headerlink" title="计算机病毒"></a>计算机病毒</h3><hr>
+<ul>
+<li>病毒：人为编写的具有破坏力的软件程序。（它具有破坏性、隐蔽性、传染性、激发性）</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 学习向 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2018/01/28/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
